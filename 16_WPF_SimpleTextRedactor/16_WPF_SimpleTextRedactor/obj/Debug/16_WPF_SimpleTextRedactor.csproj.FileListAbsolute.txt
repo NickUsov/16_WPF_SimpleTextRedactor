@@ -1,0 +1,15 @@
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\06\16\16_WPF_SimpleTextRedactor\16_WPF_SimpleTextRedactor\16_WPF_SimpleTextRedactor\bin\Debug\16_WPF_SimpleTextRedactor.exe.config
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\06\16\16_WPF_SimpleTextRedactor\16_WPF_SimpleTextRedactor\16_WPF_SimpleTextRedactor\bin\Debug\16_WPF_SimpleTextRedactor.exe
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\06\16\16_WPF_SimpleTextRedactor\16_WPF_SimpleTextRedactor\16_WPF_SimpleTextRedactor\bin\Debug\16_WPF_SimpleTextRedactor.pdb
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\06\16\16_WPF_SimpleTextRedactor\16_WPF_SimpleTextRedactor\16_WPF_SimpleTextRedactor\obj\Debug\16_WPF_SimpleTextRedactor.csprojAssemblyReference.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\06\16\16_WPF_SimpleTextRedactor\16_WPF_SimpleTextRedactor\16_WPF_SimpleTextRedactor\obj\Debug\MainWindow.g.cs
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\06\16\16_WPF_SimpleTextRedactor\16_WPF_SimpleTextRedactor\16_WPF_SimpleTextRedactor\obj\Debug\App.g.cs
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\06\16\16_WPF_SimpleTextRedactor\16_WPF_SimpleTextRedactor\16_WPF_SimpleTextRedactor\obj\Debug\16_WPF_SimpleTextRedactor_MarkupCompile.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\06\16\16_WPF_SimpleTextRedactor\16_WPF_SimpleTextRedactor\16_WPF_SimpleTextRedactor\obj\Debug\16_WPF_SimpleTextRedactor_MarkupCompile.lref
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\06\16\16_WPF_SimpleTextRedactor\16_WPF_SimpleTextRedactor\16_WPF_SimpleTextRedactor\obj\Debug\MainWindow.baml
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\06\16\16_WPF_SimpleTextRedactor\16_WPF_SimpleTextRedactor\16_WPF_SimpleTextRedactor\obj\Debug\16_WPF_SimpleTextRedactor.g.resources
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\06\16\16_WPF_SimpleTextRedactor\16_WPF_SimpleTextRedactor\16_WPF_SimpleTextRedactor\obj\Debug\_16_WPF_SimpleTextRedactor.Properties.Resources.resources
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\06\16\16_WPF_SimpleTextRedactor\16_WPF_SimpleTextRedactor\16_WPF_SimpleTextRedactor\obj\Debug\16_WPF_SimpleTextRedactor.csproj.GenerateResource.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\06\16\16_WPF_SimpleTextRedactor\16_WPF_SimpleTextRedactor\16_WPF_SimpleTextRedactor\obj\Debug\16_WPF_SimpleTextRedactor.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\06\16\16_WPF_SimpleTextRedactor\16_WPF_SimpleTextRedactor\16_WPF_SimpleTextRedactor\obj\Debug\16_WPF_SimpleTextRedactor.exe
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\06\16\16_WPF_SimpleTextRedactor\16_WPF_SimpleTextRedactor\16_WPF_SimpleTextRedactor\obj\Debug\16_WPF_SimpleTextRedactor.pdb

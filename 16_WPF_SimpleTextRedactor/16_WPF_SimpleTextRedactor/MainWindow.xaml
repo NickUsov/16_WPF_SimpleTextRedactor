@@ -1,0 +1,39 @@
+﻿<Window x:Class="_16_WPF_SimpleTextRedactor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_16_WPF_SimpleTextRedactor"
+        mc:Ignorable="d"
+         Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <DockPanel>
+            <Menu Height="25" DockPanel.Dock="Top">
+                <MenuItem Header="File">
+                    <MenuItem Header="New" Click="MenuFileNew_Click">
+
+                    </MenuItem>
+                    <Separator/>
+                    <MenuItem Header="Open" Click="MenuFileOpen_Click"/>
+                    <MenuItem Header="Save" Click="MenuFileSave_Click"/>
+                    <Separator/>
+                    <MenuItem Header="Exit" Click="MenuFileExit_Click"/>
+                </MenuItem>
+                <MenuItem Header="Window">
+                    <CheckBox Content="mainWindow1">
+
+                    </CheckBox>
+                </MenuItem>
+                <MenuItem Header="Edit" Click="MenuItem_Click">
+                    <MenuItem.Icon >
+                        <Image Source="./images/contract.png"/>
+                    </MenuItem.Icon>
+                    <MenuItem Header="Copy" Click="MenuEditCopy_Click"/>
+                    <MenuItem Header="Cut" Click="MenuEditCut_Click"/>
+                    <MenuItem Header="Paste" Click="MenuEditPaste_Click"/>
+                </MenuItem>
+            </Menu>
+            <TextBox x:Name="textBox" AcceptsReturn="True"/>
+        </DockPanel>
+    </Grid>
+</Window>
